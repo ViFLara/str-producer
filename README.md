@@ -4,4 +4,9 @@
 
 ## Topic creation:
 
-![image](https://user-images.githubusercontent.com/46038257/235405108-72a9bd35-4354-4507-ba15-1e321682f95c.png)
+![image](https://user-images.githubusercontent.com/46038257/235418954-9b94dd44-f663-4793-9589-3697d017270f.png)
+
+## Message:
+
+![image](https://user-images.githubusercontent.com/46038257/235419180-55c0700a-6254-4226-aee6-6af3f09bf085.png)
+
